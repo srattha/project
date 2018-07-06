@@ -1,0 +1,20 @@
+@charset "utf-8";
+/* CSS Document */
+
+#tab_social .logo { background-size: auto 50px; height: 80px; background-repeat: no-repeat; background-position: center center; }
+#tab_social .logo.fb_login { background-image: url('../../images/dashboard/social/fb.png'); }
+#tab_social .logo.gg_login { background-image: url('../../images/dashboard/social/google_plus.png'); }
+#tab_social .logo.ig_login { background-image: url('../../images/dashboard/social/instagram.png'); }
+#tab_social .logo.tw_login { background-image: url('../../images/dashboard/social/twitter.png'); }
+#tab_social .logo.ln_login { background-image: url('../../images/dashboard/social/line.png'); }
+#tab_social .logo.li_login { background-image: url('../../images/dashboard/social/linkin.png'); }
+
+#tab_social .loading { padding: 25px; text-align: center; }
+
+#tab_social #social_detail .modal-title { background-size: auto 20px; background-position: 2px 2px; padding-left: 30px; background-repeat: no-repeat; }
+#tab_social #social_detail .modal-title#fb_login { background-image: url('../../images/dashboard/social/fb.png'); }
+#tab_social #social_detail .modal-title#gg_login { background-image: url('../../images/dashboard/social/google_plus.png'); }
+#tab_social #social_detail .modal-title#ig_login { background-image: url('../../images/dashboard/social/instagram.png'); }
+#tab_social #social_detail .modal-title#tw_login { background-image: url('../../images/dashboard/social/twitter.png'); }
+#tab_social #social_detail .modal-title#ln_login { background-image: url('../../images/dashboard/social/line.png'); }
+#tab_social #social_detail .modal-title#li_login { background-image: url('../../images/dashboard/social/linkin.png'); }

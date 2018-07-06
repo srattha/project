@@ -20,6 +20,7 @@ class ViewController extends Controller
 	public function foodmenu(){
 		return view('foodmenu.foodmenu');
 	}
+	
 
 
 }
